@@ -10,3 +10,5 @@ resultado = parte_1 - parte_2
 print("El resultado de la operación es:", resultado)
 
 ##holaa jajajajajajajajajajajajajajajajajajajajajajajajaja agregado
+
+# comentario hecho desde la app movil
